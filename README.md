@@ -3,7 +3,7 @@ sy's homework    基于神经网络模型的新闻多分类应用
 
 #模型介绍：
 
-CNN、LSTM、WordAVG、Bert
+CNN(有详细的注释)、LSTM、WordAVG、Bert
 
 #环境：
 
