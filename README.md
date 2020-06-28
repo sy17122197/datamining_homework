@@ -26,5 +26,6 @@ bert预训练模型放在chinese_wwm_ext_pytorch目录下，目录下有三个�
 ·bert_config.json
 ·pytorch_model.bin
 ·vocab.txt
+
 也可以自行下载：
    下载地址：https://github.com/ymcui/Chinese-BERT-wwm
