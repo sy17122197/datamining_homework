@@ -1,8 +1,6 @@
 # datamining_homework
 sy's homework    基于神经网络模型的新闻多分类应用
 
-#介绍
-
 #模型介绍：
 
 CNN、LSTM、WordAVG、Bert
@@ -14,7 +12,13 @@ python3.7、pytorch1.2.0、sklearn
 #数据集：
 
 数据集在tnews_public目录下，目录下有四个文件分别对应与测试集、验证集、训练集以及类别说明
-test.json、dev.json、train.json、labels.json
+test.json
+
+dev.json
+
+train.json
+
+labels.json
 
 #训练过程以及模型测试结果记录：
 
