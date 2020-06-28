@@ -47,5 +47,6 @@ Bert预训练模型由于上传大小限制，故给出链接
 
 基于Bert预训练模型取中间编码层第六层进行取均值，最大值的模型地址：
 
-百度网盘：
-提取码
+百度网盘：链接：https://pan.baidu.com/s/1uLyGNdWIsNaNzTN3OhXovA     
+提取码：56mt
+
