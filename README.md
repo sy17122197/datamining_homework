@@ -26,16 +26,26 @@ labels.json
 
 最后一行记录相应的测试集模型得分
 
+#CNN、LSTM、WordAVG训练得到的模型
+
+存于results目录下，并且命名为model.pt
+
 #预训练语言模型：
 
-bert预训练模型放在chinese_wwm_ext_pytorch目录下，目录下有三个文件：
-
-·bert_config.json
-
-·pytorch_model.bin
-
-·vocab.txt
-
-也可以自行下载：
+Bert预训练模型由于上传大小限制，故给出链接
 
    下载地址：https://github.com/ymcui/Chinese-BERT-wwm
+   
+   选择：RoBERTa-wwm-ext, Chinese
+
+
+基于Bert预训练模型得到句子编码直接放入线性层进行分类模型地址：
+
+百度网盘：链接：https://pan.baidu.com/s/193PE6TTeBWvSepRiv2JllA      
+提取码：yn7t
+
+
+基于Bert预训练模型取中间编码层第六层进行取均值，最大值的模型地址：
+
+百度网盘：
+提取码
