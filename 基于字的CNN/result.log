@@ -1,0 +1,61 @@
+Epoch: 01 | Epoch Time: 0m 21s
+Train Set epoch 1 [1667/1668], valid loss: 73.55
+Valid Set epoch 1 [1667/1668], valid loss: 59.56
+Epoch: 02 | Epoch Time: 0m 19s
+Train Set epoch 2 [1667/1668], valid loss: 62.62
+Valid Set epoch 2 [1667/1668], valid loss: 55.03
+Epoch: 03 | Epoch Time: 0m 19s
+Train Set epoch 3 [1667/1668], valid loss: 58.76
+Valid Set epoch 3 [1667/1668], valid loss: 52.68
+Epoch: 04 | Epoch Time: 0m 19s
+Train Set epoch 4 [1667/1668], valid loss: 56.24
+Valid Set epoch 4 [1667/1668], valid loss: 51.22
+Epoch: 05 | Epoch Time: 0m 19s
+Train Set epoch 5 [1667/1668], valid loss: 54.59
+Valid Set epoch 5 [1667/1668], valid loss: 50.53
+Epoch: 06 | Epoch Time: 0m 19s
+Train Set epoch 6 [1667/1668], valid loss: 53.30
+Valid Set epoch 6 [1667/1668], valid loss: 49.99
+Epoch: 07 | Epoch Time: 0m 19s
+Train Set epoch 7 [1667/1668], valid loss: 52.15
+Valid Set epoch 7 [1667/1668], valid loss: 49.70
+Epoch: 08 | Epoch Time: 0m 19s
+Train Set epoch 8 [1667/1668], valid loss: 51.33
+Valid Set epoch 8 [1667/1668], valid loss: 49.50
+Epoch: 09 | Epoch Time: 0m 20s
+Train Set epoch 9 [1667/1668], valid loss: 50.49
+Valid Set epoch 9 [1667/1668], valid loss: 49.23
+Epoch: 10 | Epoch Time: 0m 19s
+Train Set epoch 10 [1667/1668], valid loss: 49.81
+Valid Set epoch 10 [1667/1668], valid loss: 49.24
+Epoch: 11 | Epoch Time: 0m 19s
+Train Set epoch 11 [1667/1668], valid loss: 48.95
+Valid Set epoch 11 [1667/1668], valid loss: 48.91
+Epoch: 12 | Epoch Time: 0m 19s
+Train Set epoch 12 [1667/1668], valid loss: 48.46
+Valid Set epoch 12 [1667/1668], valid loss: 48.98
+Epoch: 13 | Epoch Time: 0m 19s
+Train Set epoch 13 [1667/1668], valid loss: 47.84
+Valid Set epoch 13 [1667/1668], valid loss: 48.97
+Epoch: 14 | Epoch Time: 0m 19s
+Train Set epoch 14 [1667/1668], valid loss: 47.19
+Valid Set epoch 14 [1667/1668], valid loss: 49.11
+Epoch: 15 | Epoch Time: 0m 19s
+Train Set epoch 15 [1667/1668], valid loss: 46.81
+Valid Set epoch 15 [1667/1668], valid loss: 49.06
+Epoch: 16 | Epoch Time: 0m 19s
+Train Set epoch 16 [1667/1668], valid loss: 46.21
+Valid Set epoch 16 [1667/1668], valid loss: 49.35
+Epoch: 17 | Epoch Time: 0m 19s
+Train Set epoch 17 [1667/1668], valid loss: 45.46
+Valid Set epoch 17 [1667/1668], valid loss: 49.26
+Epoch: 18 | Epoch Time: 0m 19s
+Train Set epoch 18 [1667/1668], valid loss: 45.13
+Valid Set epoch 18 [1667/1668], valid loss: 49.26
+Epoch: 19 | Epoch Time: 0m 19s
+Train Set epoch 19 [1667/1668], valid loss: 44.76
+Valid Set epoch 19 [1667/1668], valid loss: 49.49
+Epoch: 20 | Epoch Time: 0m 19s
+Train Set epoch 20 [1667/1668], valid loss: 44.43
+Valid Set epoch 20 [1667/1668], valid loss: 49.54
+Test Set loss: 49.18,  precision: 0.47,  recall:0.46,  f1:0.43, Acc:0.51
